@@ -1,4 +1,3 @@
-## Welcome 👋
 
 <!--
 **hyeminc0706/hyeminc0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Fun fact: ...
 -->
 
-😄HyMin Choi, passionate & delicate UI/UX designer based in VA, U.S.
+😄 I'm Min Choi, passionate & delicate UI/UX designer based in VA, U.S.
 
 📫 Contact Info.
     hyeminc0706@gmail.com
