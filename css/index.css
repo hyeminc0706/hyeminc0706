@@ -841,6 +841,12 @@ footer div .sns {
   grid-row: 1;
   column-gap: 1vw;
 }
+.sns li:first-child a{
+  background-image: url(../img/instagram2.png);
+  width: 25px;
+  height: 25px;
+  background-size: cover;
+}
 footer div .fnb {
   grid-column: 1;
   grid-row: 2;
